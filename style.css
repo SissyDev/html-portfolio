@@ -1,0 +1,42 @@
+html{
+    background-color:#789DBC;
+}
+
+h1{
+    color:#FEF9F2;
+    text-align: center;
+    font-family: "Solway", serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+h2{
+    color:#FEF9F2;
+    text-align: center;
+    font-family: "Solway", serif;
+    font-weight: 1rem;
+    font-style: normal;
+  }
+
+h3{
+    text-align: center;
+    font-family: "Solway", serif;
+    font-weight: 2rem;
+    font-style: normal;
+  }
+
+a{
+    color:#789DBC;
+}
+
+.green-bg {
+    background-color:#C9E9D2;
+}
+
+.pink-bg {
+    background-color:#FFE3E3;
+}
+
+.footer-text{
+    color:#FEF9F2
+}
